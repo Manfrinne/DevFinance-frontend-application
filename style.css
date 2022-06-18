@@ -38,7 +38,7 @@ body {
 .container {
   width: min(90vw, 800px);
   min-height: 100vh;
-  padding-bottom: 8rem;
+  padding-bottom: 4rem;
   margin: auto;
 }
 
